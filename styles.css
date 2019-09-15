@@ -1,0 +1,357 @@
+.topbar{
+    grid-template-rows: 140px;
+    height: 126px;
+    width: 100%;
+    background-color: red;
+    display: grid;
+    position: fixed;
+    margin-top: -42px;
+}
+.steamlink{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 50px;
+    width: 216px;
+    margin-top:  65px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.store{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 43px;
+    width: 100px;
+    margin-top:  -75px;
+    margin-left: 290px; 
+    background-color:yellow;
+}
+.community{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 43px;
+    width: 100px;
+    margin-top:  -75px;
+    margin-left: 400px; 
+    background-color:yellow;
+}
+.about{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 43px;
+    width: 100px;
+    margin-top:  -75px;
+    margin-left: 510px; 
+    background-color:yellow;
+}
+.support{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 43px;
+    width: 100px;
+    margin-top:  -75px;
+    margin-left: 620px; 
+    background-color:yellow;
+}
+.downloadapp{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 20px;
+    width: 218px;
+    margin-top:  -70px;
+    margin-left: 1100px; 
+    background-color:yellow;
+}
+.trendingandsections{
+    grid-template-rows: 140px;
+    height: 569px;
+    width: 100%;
+    background-color: red;
+    display: grid;
+    margin-top: -42px;
+}
+.yoursotre{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 54px;
+    width: 153px;
+    margin-top:  100px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.games{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 54px;
+    width: 153px;
+    margin-top:  -40px;
+    margin-left: 210px; 
+    background-color:yellow;
+}
+.sofware{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 54px;
+    width: 153px;
+    margin-top:  -136px;
+    margin-left: 370px; 
+    background-color:yellow;
+}
+.hardware{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 54px;
+    width: 153px;
+    margin-top:  -220px;
+    margin-left: 530px; 
+    background-color:yellow;
+}
+.news{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 54px;
+    width: 153px;
+    margin-top:  -302px;
+    margin-left: 690px; 
+    background-color:yellow;
+}
+.serchbar{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 54px;
+    width: 410px;
+    margin-top:  -385px;
+    margin-left: 850px; 
+    background-color:yellow;
+}
+.featured{
+    grid-template-rows: 140px;
+    height: 529px;
+    width: 985px;
+    background-color: red;
+    display: grid;
+    margin-top: 10px;
+    margin-left: 370px;
+}
+.txt{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 48px;
+    width: 309px;
+    margin-top:  0px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.gm{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 450px;
+    width: 600px;
+    margin-top:  -100px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.gms{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 450px;
+    width: 300px;
+    margin-top:  -454px;
+    margin-left: 655px; 
+    background-color:yellow;
+}
+.linktogame{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 25px;
+    width: 294px;
+    margin-top:  0px;
+    margin-left: 200px; 
+    background-color:yellow;
+}
+.add{
+    grid-template-rows: 140px;
+    height: 70px;
+    width: 960px;
+    background-color: red;
+    display: grid;
+    margin-top: 10px;
+    margin-left: 370px;
+}
+.specialoffer{
+    grid-template-rows: 140px;
+    height: 529px;
+    width: 985px;
+    background-color: red;
+    display: grid;
+    margin-top: 50px;
+    margin-left: 370px;
+}
+.game5{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 490px;
+    width: 900px;
+    margin-top:  10px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.browsesteam{
+    grid-template-rows: 140px;
+    height: 432px;
+    width: 985px;
+    background-color: red;
+    display: grid;
+    margin-top: 50px;
+    margin-left: 370px;
+}
+.browse{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 150px;
+    width: 900px;
+    margin-top:  10px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.pictureadd{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 240px;
+    width: 900px;
+    margin-top:  40px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.sugestedcurators{
+    grid-template-rows: 140px;
+    height: 500px;
+    width: 985px;
+    background-color: red;
+    display: grid;
+    margin-top: 50px;
+    margin-left: 370px;
+}
+.gom{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 440px;
+    width: 900px;
+    margin-top:  40px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.newandtrending{
+    grid-template-rows: 140px;
+    height: 300px;
+    width: 985px;
+    background-color: red;
+    display: grid;
+    margin-top: 50px;
+    margin-left: 370px; 
+}
+.gom2{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 230px;
+    width: 900px;
+    margin-top:  40px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.under10{
+    grid-template-rows: 140px;
+    height: 900px;
+    width: 985px;
+    background-color: red;
+    display: grid;
+    margin-top: 180px;
+    margin-left:3px; 
+}
+.game{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 800px;
+    width: 900px;
+    margin-top:  40px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.under2{
+    grid-template-rows: 140px;
+    height: 300px;
+    width: 985px;
+    background-color: red;
+    display: grid;
+    margin-top: 800px;
+    margin-left: 0px; 
+}
+.gom3{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 230px;
+    width: 900px;
+    margin-top:  40px;
+    margin-left: 50px; 
+    background-color:yellow;
+}
+.recomendations{
+    grid-template-rows: 140px;
+    height: 126px;
+    width: 100%;
+    background-color: red;
+    display: grid;
+    margin-top: 10px;
+}
+.signin{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 50px;
+    width: 200px;
+    margin-top:  40px;
+    margin-left: 400px; 
+    background-color:yellow;
+}
+.bottombar{
+    grid-template-rows: 140px;
+    height: 126px;
+    width: 100%;
+    background-color: red;
+    display: grid;
+    margin-top: 10px;
+}
+.copywright{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 70px;
+    width: 300px;
+    margin-top:  40px;
+    margin-left: 350px; 
+    background-color:yellow;
+}
+.logo{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 30px;
+    width: 100px;
+    margin-top:  -110px;
+    margin-left: 680px; 
+    background-color:yellow;
+}
+.steam{
+    grid-template-rows: 140px;
+    height: 1070px;
+    width: 390px;
+    background-color: red;
+    display: grid;
+    margin-top: -4100px;
+    margin-left: -400px;
+}
+.tooxt{
+    display: grid;
+    grid-template-rows: 140px;
+    height: 900px;
+    width: 190px;
+    margin-top:  100px;
+    margin-left: 150px; 
+    background-color:yellow;
+}
